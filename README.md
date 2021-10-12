@@ -39,7 +39,16 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows 11 Release`|
+| **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows 11 Release`           |
+
+#### USBMap
+![infocatalina](./Screenshot/4.jpg)
+
+#### Power
+![infocatalina](./Screenshot/5.jpg)
+
+#### HDMI 
+![infocatalina](./Screenshot/6.jpg)
 
 #### Making the Three Finger Gestures Work
 
