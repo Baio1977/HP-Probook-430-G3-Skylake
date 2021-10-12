@@ -9,7 +9,9 @@ Resources for HP Probook 430 G3 to run macOS
 
 ![infocatalina](./Screenshot/1.jpg)
 
-![infobigsur](./Screenshot/2.jpg) #### What works
+![infobigsur](./Screenshot/2.jpg) 
+
+#### What works
 
 - iGPU acceleration (Intel HD 520)
 - Sleep
@@ -29,14 +31,11 @@ Resources for HP Probook 430 G3 to run macOS
 - iMessage
 - Facetime
 
-#### What doesn't work
-- Built-In Wifi+Bluetooth (*unsupported*)
-
 #### Specs
 
 | Component      | Brand                                                            |
 |----------------|------------------------------------------------------------------|
-| **CPU**        | `Intel Core i5-6200U ` |   
+| **CPU**        | `Intel Core i5-6200U `                                           |   
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
