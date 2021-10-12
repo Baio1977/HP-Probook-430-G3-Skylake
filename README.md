@@ -9,7 +9,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 ![Oops!There was supposed to be an image here](https://i.imgur.com/8BIOnKE.png)
 
-![infobigsur](./Screenshot/2.jpg) 
+![infocatalina](./Screenshot/2.jpg)
 
 #### What works
 
