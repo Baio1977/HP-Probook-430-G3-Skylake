@@ -5,10 +5,10 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS version: macOS Big Sur 11.6 (20G165)
 - Windows version: Windows 11 Release
 ![Oops!There was supposed to be an image here](https://i.imgur.com/8BIOnKE.png)
-![Oops!There was supposed to be an image here](https://i.imgur.com/NDEFqBk.png)
-![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
+![infocatalina](./Screenshot/1.jpg)
 
-#### What works
+![infobigsur](./Screenshot/2.jpg) #### What works
+
 - iGPU acceleration (Intel HD 520)
 - Sleep
 - Battery Percentage
