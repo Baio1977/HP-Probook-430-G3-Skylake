@@ -5,9 +5,9 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS version: macOS Big Sur 11.6 (20G165)
 - Windows version: Windows 11 Release
 
-![Oops!There was supposed to be an image here](https://i.imgur.com/8BIOnKE.png)
-
 ![infocatalina](./Screenshot/1.jpg)
+
+![Oops!There was supposed to be an image here](https://i.imgur.com/8BIOnKE.png)
 
 ![infobigsur](./Screenshot/2.jpg) 
 
