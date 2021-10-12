@@ -57,9 +57,9 @@ Resources for HP Probook 430 G3 to run macOS
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
  
-#### Bios Configuration
+### Bios Configuration
 
-### Enable
+#### Enable
 - Fast Boot
 - Runtime Power Management
 - Extended Idle Power States
@@ -70,7 +70,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Hyperthreading
 - Multi Processor
 
- ### Disable 
+ #### Disable 
 - Legacy boot
 - Wake when lid is opened
 - Wake on USB
