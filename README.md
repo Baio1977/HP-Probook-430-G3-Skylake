@@ -49,19 +49,6 @@ Resources for HP Probook 430 G3 to run macOS
 - Do the Three Finger Gesture to set it.
 - Voila! You're Done!
 
-#### Not tested
-- HDMI output (both audio and video)
-- RTS522A PCI Express Card Reader
-- (*Ideally both should work, If some is willing to test, create an issue*)
-
-#### To Do
-- ~~Add pci devices in system information~~  *done*
-- macOS Powerchime (*I don't know what I will do, if you have any suggestions,create an issue*)
-- ~~Real Time Clock Loss (RTC)~~ *done*
-- ~~Battery Cycle count~~ *Fixed by updating to the Latest Bios*
-- ~~Fan Speed Monitoring~~ *done*
-- Let me know more 
-
 #### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
@@ -70,11 +57,9 @@ Resources for HP Probook 430 G3 to run macOS
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
  
-### Bios Configuration
+#### Bios Configuration
 
-
-#### Enable
-
+### Enable
 - Fast Boot
 - Runtime Power Management
 - Extended Idle Power States
@@ -85,8 +70,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Hyperthreading
 - Multi Processor
 
- #### Disable
- 
+ ### Disable 
 - Legacy boot
 - Wake when lid is opened
 - Wake on USB
@@ -99,4 +83,4 @@ Create an issue and I'll try to help as many as I can
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
 - [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
-- [Corpnewt](https://github.com/CorpNewt) for [USBMap](https://github.com/corpnewt/USBMap)
+
