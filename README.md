@@ -1,4 +1,4 @@
-Resources for HP Probook 430 G3 to run macOS
+HP Probook 430 G3 to run macOS
 ============================================
 
 - Bootloader version: Opencore 0.7.4
@@ -17,15 +17,16 @@ Resources for HP Probook 430 G3 to run macOS
 - Display Brightness
 - USB ports
 - Internal Camera
-- Audio with mute button (Both internal speakers and Microphone) (cx20724)
+- Audio with mute button (Both internal speakers and Microphone CX20724)
 - Native Power Management/(Also with cpufriend)
 - SMBus Controller
+- WI-FI + BT Intel
 - CPU Temperature Monitoring
 - Fan Speed Monitoring
 - VGA (*suprisingly*)
 - Three Finger Gestures
 - Boot Chime
-- Dualbooting with Windows 11 Release
+- Dualbooting with Windows
 - iMessage
 - Facetime
 
@@ -37,7 +38,7 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows 11 Release`           |
+| **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows`           |
 
 #### USBMap
 ![infocatalina](./Screenshot/4.jpg)
