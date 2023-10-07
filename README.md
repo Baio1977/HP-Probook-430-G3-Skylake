@@ -8,7 +8,7 @@ HP Probook 430 G3 to run macOS
 ============================================
 
 - Bootloader version: Opencore
-- macOS version: macOS Big Sur 11.6 (20G165)
+- macOS version: Ventura
 - Windows version: Windows 11 Release
 
 ![infocatalina](./Screenshot/1.jpg)
@@ -44,7 +44,7 @@ HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows`           |
+| **OS**         | `macOS Ventura` and `Windows`                                    |
 
 #### USBMap
 ![infocatalina](./Screenshot/4.jpg)
@@ -93,7 +93,7 @@ HP Probook 430 G3 to run macOS
 Create an issue and I'll try to help as many as I can
 
 #### Credits
-- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
+- [Apple](https://apple.com)
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
 - [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
