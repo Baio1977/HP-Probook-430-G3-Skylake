@@ -1039,23 +1039,23 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02736404CDHWVP8C</string>
+                <string>C02805100GUKN2RJC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>t2FrvW5q</data>
+                <data>rqwRJdqU</data>
                 <key>SpoofVendor</key>
                 <false/>
                 <key>SystemMemoryStatus</key>
                 <string>Upgradable</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro14,1</string>
+                <string>MacBookAir8,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02VC0M9HV29</string>
+                <string>C02W60ERJK78</string>
                 <key>SystemUUID</key>
-                <string>73891B62-FF82-4DAE-9DC9-01A1B14A411B</string>
+                <string>BB2B6D41-C91F-480F-9632-3808F552C081</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
